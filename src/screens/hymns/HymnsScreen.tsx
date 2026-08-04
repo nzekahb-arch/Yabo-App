@@ -54,6 +54,7 @@ export default function HymnsScreen({ navigation }: any) {
             <View>
               <Text style={styles.hymnTitle}>{item.title}</Text>
               <Text style={styles.hymnSub}>{item.category}</Text>
+            
             </View>
           </TouchableOpacity>
         )}

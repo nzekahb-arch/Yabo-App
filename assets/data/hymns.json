@@ -3324,7 +3324,7 @@
   {
     "id": "200",
     "number": 200,
-    "title": "",
+    "title": "MUTANE FADODI",
     "category": "",
     "chorus": "Ya ku Fadodi, da-Sarakuna, mutane masu tsarkiZa-babbu na Allah, raira ya-bo ga-u-ba.",
     "verses": [
@@ -3346,7 +3346,8 @@
     "number": 201,
     "title": "KEY A♭ 3/4 (Moderate) SHIYA BANI SALAMA",
     "category": "",
-    "chorus": ": s | d : d : d, d : - : s, l : d : l | s : - : - |\n\nShi ya bani salama\n(Shi) ya bani salamarsa\nSa'adda an ya-sheni, ba tausayi\nShi ya bani sa-lama.",
+    "solfa" :": s | d : d : d, d : - : s, l : d : l | s : - : - |",
+    "chorus": "Shi ya bani salama\n(Shi) ya bani salamarsa\nSa'adda an ya-sheni, ba tausayi\nShi ya bani sa-lama.",
     "verses": [
       "Idan na shiga-cikin jaraba\nSai in dubi-Yesu\nIn fada masa-shi mai ceto na\nLallai zai fan-she ni.",
 
@@ -3358,53 +3359,563 @@
     ]
   },
   {
-    "id": "",
-    "number": 1,
-    "title": "",
+    "id": "202",
+    "number": 202,
+    "title": "KEY A♭ 4/4 (Andante) DA INA DUHU SAI YESU YA KIRA NI",
     "category": "",
-    "chorus": "",
+    "solfa" :".SI d . d : d . m I d : - . m r . d : d . l| S ; : - . S ",
+    "chorus": "Da - ma - ina cikin duhu Am – ma – ya\nkirawonifa, Ya – ce - bawana kazo nan,\nDomin in kaika ka samu rai har abada.,\nshike bishe ni kullum a tafiya ta(2x)|",
     "verses": [
-      
+      "Ina godiya. ga Allah mai iko\nDomin rayuwarsa. kullum a tafiyarsa\nIn na ji muryarsa sai in yi dariya.\nDomin Ubangiji, shine mai ceto na (2x)",
+
+      "Godiya ga Allah, don kiyayewar sa,\nGa masu bi, a wannan duniya\nSai mu yi tunani. yadda zaman mu yau (yake)Randa zamu sama, kowa da ladansa (2x)",
+
+      "In mun yi tunani. zaman mu a duniya\nBa kamar masu bin Yesu Almasihu ba\nDomin ayyukan mu, basu nuna haske ba\nsai muyi tunani, akwai ranar karshe (2x)",
+
+      "Komai wahalar mu, a wannan duniya\nMuna jiran Yesu, ya zo ya Fanshe mu\nSai muyi shiri fa, domin zuwan Yesu,\nZuwansa a duniya. kamar barawo ne (2x)"
     ]
   },
   {
-    "id": "",
-    "number": 1,
-    "title": "",
+    "id": "203",
+    "number": 203,
+    "title": "KEY G 4/4 (Allegro) IDAN KA YASHENI FA ",
     "category": "",
-    "chorus": "",
+    "solfa" :"s : l s : f m : r . d' : l : d' t : l s : -:",
+    "chorus": "Bari in kasance kullum cikin mulkinka,\nSai kullum in bi nufinka o' ya Allah na.\nBari in kasance kullum cikin mulkinka\nTuna da ni Yesu, cikin mulkinka.",
     "verses": [
-      
+      "Idan ka yashe ni fa. ni zan lalace\nGama cikin duniyan nan, ba mai taimako\nShi ya sa kulluyomin. nake yabonka\nTuna da ni Yesu cikin mulkinka.",
+
+      "In na duba duniyan nan, babu salama.\nIn na duba kewayen, sai dai damuwa\nAmma in na dube ka, sai farin ciki\nTuna dani Yesu cikin mulkinka.",
+
+      "In na duba zama na, babu kwanciyar rai.\nKullum sai dai damuwa, babu kwanciyar rai.\nAmma sunan ka kadai, ta'aziya ne\nTuna da ni Yesu cikin mulkinka.",
+
+      "Halleluya zan bi ka, da duk karfina.\nDadi ko da wahala, ba zan barka ba.\nHalleluya zan bi ka, da zuciya daya\nTuna dani Yesu, cikin mulkinka."
     ]
   },
   {
-    "id": "",
-    "number": 1,
-    "title": "",
+    "id": "204",
+    "number": 204,
+    "title": "KEY B♭ 3/4 (Moderate) YA KU MUTANEN DUNIYA",
     "category": "",
+    "solfa" :": s d : - : r m . f : s : d/ r : d : t/ d",
     "chorus": "",
     "verses": [
-      
+      "Ya ku mutanen duniya duk (ya ku malaikun) 2x\nWanene zamu girmama?\nYesu ne. Yesu, Yesu Ubangijinmu.",
+
+      "K,u shaidun Yesu, shaidarsa (kun yi da jininku) 2x\nWanene zamu girmama?\nYesu ne, Yesu, Yesu Ubangijinmu.",
+
+      "Ku masu nemansa duka, (ku masu rokon sa) 2x\nWanene zamu girmama?\nYesu ne, Yesu, Yesu Ubangijinmu.",
+
+      "Kai Bitrus, kai Istifanus, (Bulus da sauransu) 2x\nWanene zamu girmama?\nYesu ne. Yesu. Yesu Ubangijinmu.",
+
+      "Ku dukan duniya ko ina (ku shirya yabonsa) 2x\nMu duka yabo zamu yi\nYesu, Yesu, Yesu Ubangijinmu."
     ]
   },
   {
-    "id": "",
-    "number": 1,
-    "title": "",
+    "id": "205",
+    "number": 205,
+    "title": "KEY A 4/4, (Allegro) INA BADA GASKIUA",
     "category": "",
-    "chorus": "",
+    "solfa" : "d . d : d . d t . l : s, / d . d : m . m r . d : s, / - . d : d . d | r : - . r m . m : r . d / l : r !",
+    "chorus": "Ina bada gaskiya ga Allah uba mai iko du ka mahaliccin sama da kasa.",
     "verses": [
-      
+      "Ina bada gaskiya, ga dansa makadaici (ina bada gaskiya)\nga Yesu Kristo. (ina bada) gaskiya ga Ubangijin mu (ina bada)",
+      "Wadda a ka habila da ga Ruhu Mai tsarki (Haifaffe ne kuma daga) daga budurwa Mariya (daga budurwa) budur - wa\nMariya. (ina bada).",
+
+      "Ya sha wahala cikin za manni Bilatus, (a ka sashi kan gicciye) Ya mu- tu ya mutu (a ka yi ma) sa ku she wa ya\ntafi lahira. (ina bada).",
+
+
+      "Ra ... na ... ta uku, ya tashi ya ta shi (ya tashi daga matatu) Yesu Kristo ya hau bi sa (Yesu Kristo) Ya hau\nbisa cikin sama. (ina bada).",
+
+
+      "Yana zanne ga hannu. han nun da ma na Allah, (Allah Uba mai iko duka) Yesu daga can za shi zo (garin shari'a)\nga ma su rai da mattatu. (ina bada).",
+      "Ina bada gaskiya. ga Ruhu Mai tsarki (ina bada gaskiya ga) ga ikilisiyar katolika (zumun tar tsar) kaka gafa\nrar zu ... nu bi. (ina bada).",
+
+      "Tashin jiki da ... rai, da rai mara matuka. (ina bada gaskiya amin) Ina bada gaskiya amin. (ina bada gaskiya\namin amin amin (ina bada)."
+
     ]
   },
   {
-    "id": "",
-    "number": 1,
-    "title": "",
+    "id": "206",
+    "number": 206,
+    "title": "KEY C 2/4 (Moderato) MUNA BADA GASKIYA",
     "category": "",
+    "solfa":"s : l | s . f : m . . f | s : m . d m : s . S / l : s.",
+    "chorus": "Mai adalci da bangaskiya, za ya rayu koda shike ya mutu, za ya rayu.",
+    "verses": [
+      "Muna bada gaskiya ga Allah Uba muna bada gaskiya\nMai iko duka mahalcin sama da kasa\nMuna bada gaskiya ga dansa makaidaci \nMuna bada gaskiya ga Yesu Kristo ",
+
+      "Muna bada gaskiya ga Ubangijinmu, muna bada gaskiya\nWanda aka halitta daga Ru - hu mai tsarki\nHai - ffa - fe ne kuma daga Budurwa Mariya\nYa sha wahala cikin zamani Pontus Pilatus ",
+
+      "A-ka -sa shi kan giciye ya mutu -ya mutu muna bada gaskiya\nA-kayi masa kushewa - ya tafi la - hi ra \nRa -na - ta uku ya - tashi kuma da ga matatu \nYe- su Kristo ya hau – bi- sa cikin sa – ma ",
+
+      "Ya-na zanne ga hannun–da–ma–na–All-lah muna bada gaskiya\nAl-lah-U-ba mai - I – ko- du-ka, \nYe-su-daga can za shi - zo garin yin shari-a \nGa-ma-su-Rai-da-ku-ma-mat-tat-tu ",
+
+      "Mu-na - bada gaskiya-ga Ruhu-mai-tsar-ki muna bada gaskiya\nMu-na-bada gaskiya-ga ikili - siya mai tsar-ki \nMu-na - bada gaskiya - ga ikili- siya katolika \nzu-mu-ntar Tsarkaka ga-fa - ra - rzu- nu-bi-bi ",
+
+      "Ta-shin-ji- ki- da rai mara –ma- tu - ka muna bada gaskiya\nMu - na -bada gaskiya - A ... min "
+
+
+    ]
+  }, 
+  {
+    "id": "207",
+    "number": 207,
+    "title": "KEY A♭ 4/4 (Moderato) UBANGIJI YA RAKA KA",
+    "category": "",
+    "solfa":"m : - . m i m . m : m . m : s : r / m : -",
+    "chorus": "Har ya tara, ko a duniya nan\nKo a cikin sama ne\nHar ya tara mu, har ya tara mu\nUbangijin mu ya raka ka.",
+    "verses": [
+        "Ubangijinmu ya raka ka\nI kon Allah ya boye ka\nHannunsa, ya taimake ka\nHar ya sake tara mud a kai.",
+
+        "Ubangijinmu ya raka ka\nKo jaraba ta dame ka\nUbangiji ya cece ka\nHar ya sake tara muda kai",
+
+        "Ubangijin mu ya raka ka.\nKo wahala ta Same ka\nUbangiji ya fisshe ka\nHar ya sake tara mu da kai",
+
+        "Ubangijinmu ya raka ka\nIkonsa ya agaje ka\nKalmarsa ta kawaye ka\nHar ya sake tara muda kai."
+    ]
+  },
+  {
+    "id": "208",
+    "number": 208,
+    "title": "KEY F 4/4 (Moderato) BANI GURASA TA RAI",
+    "category": "",
+    "solfa":"m : - d : m | s : l s",
     "chorus": "",
     "verses": [
-      
+    "Bani gurasar rai, ya Allah na\nYadda ka bayar acan Ga lili\nIna biddar ka ya Ubangiji\nRuhu na na marmarin Gurasa",
+
+    "Bani Gurasar rai bani in ci\nYadda ka albarkaceni da shi\nShi zai 'yan tadda ni in sami rai\nSalama tawace ya Yesu na.",
+
+   "Kai ne Gurasar rai a gareni\nKalmarka gaskiya ce ya ce ni\nbani a binci rai da ga sama\nkoya mani gaskiya da kaunarka",
+
+    "Aiko nani ruhun ka ya Allah\nbude I dona in ga kaunar ka\nNuna mani kalmar gaskiya dai\nda ke cikin littafin ka na rai."
+
+    ]
+  },
+  {
+    "id": "209",
+    "number": 209,
+    "title": "KEY F 2/4 (Moderato) KUJI KU SAMI RAI",
+    "category": "",
+    "solfa":"d . r | m : f . r | s : t . r d",
+    "chorus": "SP: Yau kunji-labarin. Yesu-mai cetonmu Bishara-mai\ntsarki, sai ku ji domin ku sami rai .\nSauru; Kunji labarin, labarin Yesu,\nYesu mai ceto Yesu mai ceto,\nYesu mai ceto, kunji bishara\nmai tsarki kuwa sai ku ji dominku sami rai (sami rai)",
+    "verses": [
+    "Ga maganar Ubangijinmu (gijinmu) muji\nsai kuma mu (gaskanta) labarin mai\ncetonmu muji mu bada gaskiya wanda ya\ngaskanta zai sami rai (Ba shakka)",
+
+    "Allah ya ba mu mai wa'azi (wa'azi) ya\nbamu kunnuwa da hikima (hikima) yace\nduk mai jin magama ta yaba da gaskiya\nlallai zai sami rai har abada (ba shakka)",
+
+    "Yesu ya yi Magana cewa (Magana) Nine\nmakiyayi mai kyau kuwa (mai kyau kuwa)\nNasan tumakina, tumakina sun sanni su\nkan ji murya ta kuma su zo (ba shakka)"
+    ]
+  },
+  {
+    "id": "210",
+    "number": 210,
+    "title": "KEY E♭ 3/4, (Allegro) YABO GA ALLAH Easter",
+    "category": "",
+    "solfa":"s ; . l ; s | m ; d : r m ",
+    "chorus": "Yabo ga Allah Uba (ya bada Yesu) yabo\nga madaukaki (halleluya) Babu suna a\nduniya babu suna a sama sam sam,\nwanda zai bada rai irin sunan Yesu. Yesu\nne (hanyar tsira) Yesu ne (hanyar tsira)\nYesu ne hanyar samun ceto.",
+    "verses": [
+      "Bass    (Babu kamarsa) anan duniya\nSP/Alt    babu samsam Yesu ne hanyar\nsamun ceto\nBass (Babu shakka) zashi sake\ndawawa don ya fyauce mu\nzuwa sama wurin Allah\nUba zamu zauna tare",
+
+      "SP/Alt    Ba bu ceto ga wani sai ta\nwurin Yesu shi dadai\nshine dai kofar rai\nDuka:    Ba wata hanyar ceto sai ta\nwurin Yesu,\nshine hanyar kadai, Yesu ne\nhanyar rai, zuwa Allah Uba",
+
+      "Bass    (Ni zan yabi) Yesu, shine\nmasoyi, ya shirya hanya\ntasa Ya biya bashina. abin sa\ngiciye, Yesu ya wanke ni. da\njini mai daraja, ya kuma\nshare hanyar kabari"
+
+    ] 
+  },
+  {
+    "id": "211",
+    "number": 211,
+    "title": "KEY'G 3/4 ALLAH MADAUKAKI",
+    "category": "",
+    "solfa":"s:m:d:/:r:-:t,/d:-/d:r:m/f",
+    "chorus": "",
+    "verses": [
+      "Allah Madukaki:, Sarki Madawwami, mun yabe ka\nKai ne mahalicci kai ne mai aminci,\nkai ne mafifici na har abada.",
+
+      "Mun taru wurinka. kai ne madogara. mun yabe ka\nKai ne mai kaunarmu, kai ne mai fansarmu\nKai ne mai tsaron mu har abada.",
+
+      "Bayyana girmanka, nuna darajarka, kusance mu\nTsarkake zukata, sauko da ikon ka\nFurta maganarka ya Allahnmu.",
+
+      "Mallaki 'ya'yanka, karfafa bayinka, a 'duniyan\nnan Yi amfani damu. kwabi ragwancinmu\nMai damu nan gaban manzanninka"
+    ]
+  },{
+    "id": "212",
+    "number": 212,
+    "title": "KEY-G 4/4 KAI NE KOMAI.",
+    "category": "Entrance",
+    "solfa":"s,:s.:/d.d:-:d,m.m:r.d/l:l. ",
+    "chorus": "Kai ne komai ubana kai ne komai, Yesu\nkai ne komai Ubangijina (Ubangiji) kai\nne komai, ubana kai ne komai, Yesu kai\nne komai (Oh) Ubangijina (Munzo mu yabeka)",
+    "verses": [
+      "Allah mun zo Yesu Dan Allah munzo\nRuhu mai Tsarki, Mun zo, mun zo mu\nyabe ka (mu yabe ka) Allah mun zo. Yesu\nDan Allah mun zo. Ruhu Mia tsarki Mun\nzo (oh) mun zo mu yabe ka (mun zo mu yabe ka)",
+
+      "Allah mun zo Ubanmu Allah mun zo mun\nzo mu bauta maka Don ka ceccmu (don ka\nceto-mu) Allah mun zo, ubanmu Allah\nmun zo, mun zo mu bauta maka (Oh) don\nka cee mu (mun zo mu yabe ka)",
+
+      "Yesu mun zo, mai ceto Yesu mun zo mun\nzo ka fanshe mu Ubangijinmu\n(Ubangijinmu) Yesu mun zo, mai ceto\nYesu mun zo, mun zo ka fanshe mu (oh)\nUbangijinmu (mun zo mu yabe ka)",
+
+      "Ruhu mun zo, mai tsarki Ruhu mnn\nzo mun zo ka ji addu'armu ka yi mana\njinkai (ka yi mana) Ruhu mun zo. mai\ntsarki Ruhu mun zo. mun zo ka ji addu'\narmu (oh) ka yi mana jinkai (mun zo mu yabeka)"
+
+    ]
+  },
+  {
+    "id": "213",
+    "number": 213,
+    "title": "KEY Ab 4/4 moderator ZUCIYAR YESU MAI TSARKI,",
+    "category": "",
+    "solfa":".s,:s..s,/d:m,r.r,m.f/m",
+    "chorus": "Masu san zu (masu san zu) ciyar Yesu\n(masu san zuciya) Ku gama baki don\nwaka (don waka), Yesu mai rai Mai\nalbarka Yesu mai rai Mai albarka,\nkarbi kauna Mai dawwama, (Maidawwama).",
+    "verses": [
+      "Zuciyar Yesu mai tsarki, tushiyar du kan kauna\nHura wuta mai konewa a zuciyarmu",
+
+      "Zuciyar Yesu mai tsarki, rijiyar du kan jinkai\nzunubzamu ka shafe su masu kauna",
+
+      "Zuciyar Yesu mai Tsarki ci kawar du kan\nkyauta bari cikinka mu sami yawan grasiya"
+    ]
+  },
+  {
+    "id": "214",
+    "number": 214,
+    "title": "KEY F 2/2 ZAMU JE GIDAN ALLANMU",
+    "category": "",
+    "solfa":"d:d.d/r:r.r/m.m:.m/m.r:d.f/m:r entrance",
+    "chorus": "Za mu je gidan Allahnmu da ihu a murna za mu je\ngidan Ubangijinmu",
+    "verses": [
+        "Bass: Na yi murna an amince mani muje\ngidan Allah\nSp: Yan zu muna a tsaye kofarki ya-\nUrshalima",
+
+        "Bass: An gina birnin Urshalima da karfi\nkuwa\nSp: Nan ne dangogi za su ji sunan\nUbangiji",
+
+        "Bass Doka ce ga Isra'ila su yabi sunansa\nSp: Nan ne Manzanni",
+
+        "Bass Domin salamar Urshalima salama\ngareku\nSp: Salama a gidan ku gareku salama",
+
+        "Bass: Don kaunar 'yan'uwa da abokai salama gareku\nSp: Don kaunar gidan Ubangiji sa roko domin ku."
+
+    ]
+  },
+  {
+    "id": "215",
+    "number": 215,
+    "title": "KEY G 6/4 Allegro SABUWAR URSHALIMA",
+    "category": "",
+    "solfa":"s.s./d:m:/s:f:m:r/d:-:-/r:-:- Jana'iza",
+    "chorus": "",
+    "verses": [
+        "Ni zan tafi in sake dawowa zani, shirya maku wurin zama wurin da babu ciwo sam-sam\nSp/Alt: Babu yinwa babu sauran kuka\nBass: Idan nasa bawar Urshalima Ur-shalima gidan da babu sauran kuka\nSp/Alt: Babu ciwo da sauran kuka\nBass: Urshalima\nZa mu zauna da ku a can- samaniya\nGida na shinyayye dominku (yana)\nGidan nan sabuwar Urshalima babu ciwo cikin Urshalima\nZa ku zauna da ni a can\nNi na kara bege na ina da wurin zama a sama\nBass: Urshalima ce gidana\nSp/Alt: Kuna bada gaskiya gareni. nine hanya Nine gaskiya, nine kofar rai\nBass: Kada zuciyarku ta baci.\nAll: Ye - su yace kada zuciyarku tabaci, ku zo gareni dukanku masu nauyin kaya ku huta (Ni ne hanya) ni zan kai ku Urshalima - lima."
+
+    ]
+  },
+  {
+    "id": "216",
+    "number": 216,
+    "title": "KEY G 4/4 Moderato MAGNIFICAT",
+    "category": "",
+    "solfa":"m/m:-.m/m.m:r.d/r",
+    "chorus": "",
+    "verses": [
+        "Zuciyata yanzu ta daukaka, Ubangiji shine mai ceto na Yi murna domin ni wanda, Allah ya nuna mani alheri",
+
+      "Duniya tace ni mai albarka ne. tayi tunani kan labarina Ci - kina kuma an nuna, girman Allah da daukakarsa",
+
+      "Wadanda abokansa ne. na rike da kaunarsu mai tsarki jin kansa mara karewa, yana kuwa daukaka kaskantattu",
+
+      "Ta wurin girman ikonsa, masu girma da rashin tausayi Sarakuna masu mulki, ya wulakanta, ya kaskantar",
+
+      "Ya kosad da matalauta, yana tsare kasarsa mai tsarki Yana cika alkawarinsa, tun da-ga fil - azal.",
+
+      "Mu daukaka-shi tare, Ubangiji shi mai ceto ne, Triniti daya mai tsarki, har abada - a - ba-din."
+    ]
+  },
+  {
+    "id": "217",
+    "number": 217,
+    "title": "KEY Ab 4/4 Moderator MURNA DON CETONSA",
+    "category": "",
+    "solfa":"m:-. r/d: -. m/s. l: s. m: d. f I sta",
+    "chorus": "Alt. Kaunarsa mai girma ce\nAlt: Jinkansa babu iyaka, alherinsa abin mamaki ne-(murna murna) don cetonsa",
+    "verses": [
+      "Yesu muke so don ya cecemu - (muna murna) don cetonsa Shirye yake, dai don mu sami rai- (muna murna) don cetonsa",
+
+      "Yesu muke bi har mutuwarmu - (muna murna) don cetonsa Shi ke tsare mu daga mugunta - (muna murna) don cetonsa",
+
+      "Shi mai bada rai na har abada (muna murna) don cetonsa Shi ya zabe mu daga duniya, (muna murna) don cetonsa",
+
+      "Shi mai jinkai, jinkai har abada (muna murna) don cetonsa Ya fyauce mu daga bautar shaitan (muna murna) don cetonsa"
+
+    ]
+  },
+  {
+    "id": "218",
+    "number": 218,
+    "title": "KEY G 6/8 (moderato) AKWAI HASKE",
+    "category": "",
+    "solfa":":d.r/m:m:m/m::r:d/s:s:l/s:-:m.f/s:s:s:/m:r:d:/r:-:-",
+    "chorus": "Sp/Alt: Yana haskakawa\nTn/Bs: Yana haskakawa\nDuka: A lokacin jaraba (Bs Lokacin jaraba)\nSp/Alt: Ko kuna jin dadi (BS. Ko kuna jin dadi)\nDuka: Yana haskakawa (An/Bs: Yana haskakawa)\nAlt: Shine zai bashe ni (sauran: Shine zai bashe ni)\nAlt: zuwa gidan Sama sauran:. zuwa gidan Sama\nSp: za mu raira yabo (sauran: za mu raira yabo)\n Duka: Da mala'ikunsa (Alt/Tn: da mala'ikunsa)",
+    "verses": [
+      "Akwai haske mai haskakawa a duniya\nWannan haske zai kai ni Sama'\nYana taimako na lokacin jaraba.\nWannan haske kuwa shine Yesu.",
+
+      "Ko a cikin wahala ko kuwa jin dadi,\nAkwai haske mai haskakawa\nLokacin da Yesu yana kan gicciye.\nWannan haske na haskakawa.",
+
+      "Ina murna mai yawa don zan je Sama\nZamu zauna tare da Yesu\nCikin gidan nan da yake shiryawa.\nIn yi yabonsa har abada."
+    ]
+  },
+  {
+    "id": "219",
+    "number": 219,
+    "title": "KEY C 4/4 (Moderator) BABBAR RUNDUNA",
+    "category": "Offertory",
+    "solfa":"s.s:s:l/s:m/d.d:d..r/d:l/s.s:s:l/s:m/m:m/r:dc/r:",
+    "chorus": "Babbar runduna, babbar runduna\nMasu yin bishara babbar runduna (2x)",
+    "verses": [
+    "Yesu yana kiran dukan mutane,\nDon mu kama aiki sai mu tashi dai,\nAllah Ubangiji ya bamu bishara\nSui mu yi ta shelar babbar runduna.",
+
+    "Ko mun rasa iko, bamu kuwa da karfi\nSai mu yi ta aiki cikin ikonsa.\nIn mun tashi duka, in mun hada kanmu,\nLallai za mu zama babbar runduna",
+
+    "In mun yi aniya, har rana ta fadi\nIn mun bada kanmu, da dukan zuciya\nRanda Almasihu ya zo daga Sama\nZa 'a ganmu can ta babbar runduna."
+    ]
+  },
+  {
+    "id": "220",
+    "number": 220,
+    "title": "KEY E♭ 3/4 (Moderato) ZAMU TARU A CAN",
+    "category": "",
+    "solfa":":d.,r m:r:d s:-:s.,s l:f:l's:-",
+    "chorus": "Zamu taru a can, zamu taru a can,\nzamu bada lisafin dukan abinda mu yi.\nzamu taru a can, zamu taru a can.\nA gaban kur siyin sama muce Halleluyah.",
+    "verses": [
+      "Ubangiji Allah zaya sake zuwa\nZuwan sa yayi kusa don ya kai mu sama,\nMasu binsa duka wadanda suka shirya\nza'a kai su sama tare da ubangiji",
+
+      "Zuwan Ubangiji muke sauraro yau\nBa zato ba tsammani zamu ji muryar sa.\nYesu yana zuwa, lalle yana zuwa\nsai muyi shiri don mu tarbe shi a sama.",
+
+      "Tsarkakun sa biyu ne, lokacin zuwan sa.\nYesu Kristi dai zai tada matattu.\nMasu rai gaba dayan su ma zai fyau ce su\nZaya sa su a wuraren da shi ya shirya"
+    ]
+  },
+  {
+    "id": "221",
+    "number": 221,
+    "title": "KEY E♭ 6/8 (Moderato) YA YESU UBANGIJI NA BA KOME CIKIN HANUWA NA",
+    "category": "",
+    "solfa":":d.r/m:-:m/ s.. : .f.;m/r: .m:f/m:-: s s:r:m|f:-",
+    "chorus": "",
+    "verses": [
+      "Ya Yesu ubangiji na, ba ko me cikin hanuwana,\nba hujojji domin laifi na mai bi ya fansa, na zo",
+
+      "Alkawarinka nake bi, ba ka korar mai zunubi\nmai tuba kazo ka karbe shi, mai bi ya fansa, na zo.",
+
+      "Dube ni mara karfi fa. ka biya bukatar ruhuna.\nAdu'ar kowa ba ka ki ba. mai bi ya fansa, na zo."
+    ]
+  },
+  {
+    "id": "222",
+    "number": 222,
+    "title": "KEY F 3/4 (Moderato) KUYI TA WA'AZI WURIN MUTANE DUK",
+    "category": "",
+    "solfa":":s s:-.l:s.m s:-:d'|d':-.r':d'.l/d'",
+    "chorus": "Mai tai mako ya zo. mai tai mako yazo,\nRuhu mai tsarki da Allah ya aiko.\nKu labarta dashi. wurin mutane duk mai tai mako yazo.",
+    "verses": [
+      "Ku yi ta wa'azi, wurin mutane duk\nGama a duniya, a kwai wahalar rai.\nBari duk masu bi, su shai da ko ina.\nmai taimako ya zo.",
+
+      "Mun sami haskensa, ya watsa duhum mu,\nya kanda tsoro duk, ya bamu kwanciyar rai,\nya kawo gafara ta dukan zunubi,\nmai tai mako yazo.",
+
+      "Ga Ubangijin mu, yazo da waskarwa,\nGa yayan duniya, rudaddu na shaidan,\nYa kwance daurarru, ya kawo fansarsu, mai taimako yazo."
+    ]
+  },
+  {
+    "id": "223",
+    "number": 223,
+    "title": "KEY F 4/4 (Moderato) TUNA DA NI YESU",
+    "category": "",
+    "solfa":"",
+    "chorus": "Bari in kasance kullum cikin hanyarka, sai kullum in bi nufin ka, ya Allahna,\nBari in kasance kullum cikin hanyarka, (tuna da ni ya Yesu cikin mulkinka )2x",
+    "verses": [
+      "Idan ka yashe ni fa, ni zan lalace gama cikin duniyar nan ba mai taimako\nShi ya sa kulluyomin, nike yabonka, tu-na da ni Yesu cikin mulkinka\n\nMu duba duniyan nan ba bu salama, in na duba kewaye sai dai damuwa\nAmma in na dube ka sai farin ciki. tu-na da ni Yesu ya Yesu cikin mulkin ka",
+
+      "In na duba zama na babu kwanciyar rai ,\nKullum sai damuwa babu kwanciyar rai.\nAmma sunanka kadai ta'aziyyane, tu-na da ni Yesu cikin mulkinka.",
+
+      "Halleluya zan bika da duk karfina, dadi ko da wahala bazan barka ba,\nHalleluya zan bika da zuciya daya, sai dai mutuwa ce zata raba mu."
+    ]
+  },
+  {
+    "id": "224",
+    "number": 224,
+    "title": "KEY G 4/4 ALLEGRO MUN ZO YA UBANGIJI",
+    "category": "Entrance",
+    "solfa":"/d:d/d:-/r.m:-.m/d ",
+    "chorus": "Mun zo ya Ubangiji. mun zo mu yabeka\nSama na (Allah) albarkar Ubangiji",
+    "verses": [
+      "Ku zo dukan mutane, zo mu yabi Ubangiji, mu girmama shi\nYa sa mu yi barci mu tashi. har duniya da gadonsa\nYa mayar da shi rayayye",
+
+      "Ubangiji bari addu'armu ta farantadda kai (da kai)\nFarantadda da kai, zuciyarmu kuma ka cika tada farin ciki (farin ciki)\nSabili da kaunarka."
+    ]
+  },
+  {
+    "id": "225",
+    "number": 225,
+    "title": "KEY F 3/4 MADORA TA ITACE YESU",
+    "category": "",
+    "solfa":":s.l/s:m:d/m:-:m.r/d:l:d/d",
+    "chorus": "Ya yi alkawari ba zai banni ba sam,\nyana nan tare da ni kullum,\nYana lura dani,dare da rana, madogara ta itace Yesu.",
+    "verses": [
+      "Ni zan dogara ga Ubangiji, dukan bukatuna. shi ya biya mani,\ndon haka ni ba ni da shakka fa sam sam.\nMadogara ta itace Yesu.",
+
+      "Cikin tafiyata, bani da shakka sam, ko barci nake yi bana Jin tsoro.\nTsanani ko damuwa bana ko kula,\nmadogara ta itace Yesu.",
+
+      "Rashin aikin yi ma ko rashin abinci, sutura da lafiya\nHannun Allah suke, damuwa ta itace, in ga fuskar Allah, shi zai biya dukan bukatuna.",
+
+      "Dogara ga Allah da dukan wahalunka,\ndogara ga Allah cikin jin dadinka, Dogara ga Allah, da dukan begenka. shi kadai ne mai jin tausayi."
+    ]
+  },
+  {
+    "id": "226",
+    "number": 226,
+    "title": "KEY Bb 3 (MODERATO) GODIYA GA ALLAH",
+    "category": "",
+    "solfa":"d.m/r.f:m/.m,s:m.m/d:-",
+    "chorus": "Godiya ga Allah Ubangijinmu, domin yana kaunar duniya\nYa aiko (Yesu Kristi don ya cecemu) 2x",
+    "verses": [
+        "Sp/Alt : A cikin kwanakina karshe masu bin sa\nDuka: Da suka karbe shi sai murna mara karewa (2x)",
+
+        "Cikin duniyan nan, kullum sai damuwa da mutuwa,\nAlt/Sp : A can cikin sama\nDuka Ba mutuwa, a can sam- sam."
+    ]
+  },
+  {
+    "id": "227",
+    "number": 227,
+    "title": "KEY F 4/4 (MODERATO) AKWAI WAKOKI A CIKIN SAMA",
+    "category": "",
+    "solfa":":m;f/s.s:-l/sm:r.d/r.d:-.l/s..:d;r/m.m:-s/l.s:s;m/r;",
+    "chorus": "Akwai wakoki cikin sama can gun uba, babu riba abar bataccen nan, duk mala'iku na murna cikin samaniya makiyayi ya same shi (2x)",
+    "verses": [
+      "Akwai wakoki cikin sama don cetattu, cikin bishara akwai labari lokacin da aka samo batattacce a daji,\nmakiyaki ya kawo shi",
+
+      "Can da bataccen ya yi ta fama da wahala domin neman hanya. Ubangiji na kallo sai ga muryar kauna, ga makiyayi\nyana zuwa.",
+
+      "Mai zunubi sai ka tuba ka zo gun Yesu. Yesu Kristi ya mutu dominka\nDuk mala'iku na jira suna raira waka Makiyayi ya kawo shi."
+    ]
+  },
+  {
+    "id": "228",
+    "number": 228,
+    "title": "KEY Ab (MODERATO) A GATSAMANI",
+    "category": "",
+    "solfa":":d.r/m:-re:m.f./s:-",
+    "chorus": "Alt: A gatsamani a can Yesu yace\nDuka: (A Gatsamani) Yesu yace\nDuka: Ya Uba (ina rokonka) Idan ka yarda\nAlt: Ka kawas mini daukar wannan koko\nSp/Bass: Ka kawas mini - wannan koko\nDuka: Amma dai (Alt: Ba nawa nufi ba) naka za a yi (2x)",
+    "verses": [
+      "Yesu yayi addu'a a Gatsamani, jininsa ya zama jinin masu faduwa,\nMala'ikanUbangiji daga can Sama, ya sauko\n ya zo wurinsa, ya karfafa shi",
+
+      "Yesu ya zo ya iske Almajiransa, Dukansa sun kasa tsaro ko sa'a daya. Ruhu ya yarda, amma jiki rarrauna ne, Ya sake tafiya ta biyu, ya yi addu'a",
+
+      "Ya zo ya sake iske Almajiransa. Sun kasa yin addu'a suna ta barci Sai ya tafi na uku, ya yi addu'a. Ya dawo, lokaci ya yi za' a bashe shi"
+
+    ]
+  },
+  {
+    "id": "2",
+    "number": 2,
+    "title": "",
+    "category": "",
+    "solfa":"",
+    "chorus": "",
+    "verses": [
+    
+    ]
+  },
+  {
+    "id": "2",
+    "number": 2,
+    "title": "",
+    "category": "",
+    "solfa":"",
+    "chorus": "",
+    "verses": [
+    
+    ]
+  },
+  {
+    "id": "2",
+    "number": 2,
+    "title": "",
+    "category": "",
+    "solfa":"",
+    "chorus": "",
+    "verses": [
+    
+    ]
+  },
+  {
+    "id": "2",
+    "number": 2,
+    "title": "",
+    "category": "",
+    "solfa":"",
+    "chorus": "",
+    "verses": [
+    
+    ]
+  },
+  {
+    "id": "2",
+    "number": 2,
+    "title": "",
+    "category": "",
+    "solfa":"",
+    "chorus": "",
+    "verses": [
+    
+    ]
+  },
+  {
+    "id": "2",
+    "number": 2,
+    "title": "",
+    "category": "",
+    "solfa":"",
+    "chorus": "",
+    "verses": [
+    
+    ]
+  },
+  {
+    "id": "2",
+    "number": 2,
+    "title": "",
+    "category": "",
+    "solfa":"",
+    "chorus": "",
+    "verses": [
+    
+    ]
+  },
+  {
+    "id": "2",
+    "number": 2,
+    "title": "",
+    "category": "",
+    "solfa":"",
+    "chorus": "",
+    "verses": [
+    
+    ]
+  },
+  {
+    "id": "2",
+    "number": 2,
+    "title": "",
+    "category": "",
+    "solfa":"",
+    "chorus": "",
+    "verses": [
+    
+    ]
+  },
+  {
+    "id": "2",
+    "number": 2,
+    "title": "",
+    "category": "",
+    "solfa":"",
+    "chorus": "",
+    "verses": [
+    
     ]
   }
 ]

@@ -9,6 +9,11 @@ export default function HymnDetailScreen({ route }: any) {
     <ScrollView style={styles.container} contentContainerStyle={{ paddingBottom: 40 }}>
       <CustomText style={styles.meta}>{hymn.category} • Hymn #{hymn.number}</CustomText>
       <CustomText style={styles.title}>{hymn.title}</CustomText>
+      
+      {hymn.solfa ? (
+        <CustomText style={styles.solfaText}>{hymn.solfa}</CustomText>
+        ): null}
+    
 
       {hymn.chorus ? (
         <View style={styles.chorusBox}>
@@ -37,4 +42,5 @@ const styles = StyleSheet.create({
   verseBox: { flexDirection: 'row', marginBottom: 20, alignItems: 'flex-start' },
   verseNumber: { fontSize: 16, fontWeight: 'bold', color: COLORS.primary, marginRight: 10, marginTop: 2 },
   verseText: { flex: 1, fontSize: 20, lineHeight: 26, color: COLORS.text, fontFamily:'Poppins', fontWeight:'bold' },
+  solfaText: { fontSize: 15, fontStyle: 'italic', lineHeight: 24, color: COLORS.textMuted, marginBottom: 20, fontFamily:'Poppins', fontWeight:'bold' },
 });
