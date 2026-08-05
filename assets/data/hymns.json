@@ -1287,7 +1287,7 @@
   {
     "id": "81",
     "number": 81,
-    "title": "",
+    "title": "YABO GA YESU",
     "category": "",
     "chorus": "",
     "verses": [
@@ -1732,7 +1732,7 @@
   {
     "id": "105",
     "number": 105,
-    "title": "",
+    "title": "HASKEN DUNIYA",
     "category": "",
     "chorus": "Hasken duniya, zo Yesu, hasken\nduniya, zo Yesu,\nHasken duniya. zo Yesu, Ai! Yesu\ncece mu.",
     "verses": [
@@ -1753,7 +1753,7 @@
   {
     "id": "107",
     "number": 107,
-    "title": "",
+    "title": "KADA ZUCIYARKU TA BACE",
     "category": "",
     "chorus": "KADA ZUCIYARKU TA BACE",
     "verses": [
@@ -3809,113 +3809,588 @@
     ]
   },
   {
-    "id": "2",
-    "number": 2,
-    "title": "",
+    "id": "229",
+    "number": 229,
+    "title": "KEY G 4/4 (MODERATO) YESU SHINE HANYA",
     "category": "",
-    "solfa":"",
-    "chorus": "",
+    "solfa":"m.m:s.m:d:-r:d.d:t,.l,.s.",
+    "chorus": "Halleluya ga Yesu Kristi mai ceto. Mulki, Iko, girma duka nasa ne\nDaukakarsa ta tabbata har abada\nGodiya ga Yesu mai ceton duniya.",
     "verses": [
-    
+      "Yesu Kristi shine hanyar zuwa Sama, babu wata hanya sai ta wurinsa, Ta wurin Yesu ne zamu sami tsira, sai mu dogara ga Yesu mai cetonmu",
+
+      "Yesu Ubangijinmu shine gaskiya, Ta wurin Yesu ne muke sanin gaskiya, Mu masu bi sai mu kasance da gaskiya, Wannan gaskiya kuwa zata 'yantar da mu.",
+
+      "Yesu Dan Allah shine rai madawwami Ta wurin Yesu Kristi zamu sami rai, Sai mu kafa bangaskiyarmu gareshi, Gama babu ceto sai ta wurin Yesu."
     ]
   },
   {
-    "id": "2",
-    "number": 2,
-    "title": "",
+    "id": "230",
+    "number": 230,
+    "title": "KEY G 6/4 (ALLEGRO) AKWAI HASKE MAI HASKAKAWA",
     "category": "",
-    "solfa":"",
-    "chorus": "",
+    "solfa":":d.r/m:m:m/m:r:d:s:s:l:s",
+    "chorus": "Yana haskakawa (2x) A lokacin jaraba (2x) ko kuma jin dadi (2x) Yana haskakawa (2x) Shine zai bisheni (2x) zuwa gidan sama (2x) za mu raira Yabo (2x) da Mala'ikunsa da mala'ikunsa",
     "verses": [
-    
+      "Akwai haske mai haskakawa a duniya, wannan haske zai kai ni sama, Yana taimako na lokacin jaraba, wannan haske kuwa shine Yesu.",
+
+      "Ko a cikin wahala ko kuwa jin dadi, akwai haske mai haskakawa, Lokacin da Yesu yake kan gicciya, wannan haske na haskakawa."
     ]
   },
   {
-    "id": "2",
-    "number": 2,
-    "title": "",
+    "id": "231",
+    "number": 231,
+    "title": "KEY Ab 2/4 YA ALLAH UBANGIJINMU",
     "category": "",
-    "solfa":"",
-    "chorus": "",
+    "solfa":"m.m.-:m.r.d/m.r:d/m.r.:d,r/d:t.",
+    "chorus": "Bass: (Ka sake ni) Sp/Alt/Tn Ka sake mini (Ka sake mini) zuciya\nBass: (Ka wanke ni sosai ka ci) kaci ka da, ka cika ni da ruhunka\nBass: (Halinka nake so indin) in dinga tunawa da kai, kullum ba fasawa har muddun rai har muddun rai. Yesu masoyina",
     "verses": [
-    
+      "Ya Allah Ubangiji kaji addu'a ta, bukatata mai yawa ce Kai ne mai bayarwa. Ya Allah Ubangijina, kaji addu'ata Bukatata mai yawa ce, kai ne mai bayarwa.",
+
+      "Ka cika ni da ladabi. duk da bangaskiya, ya zauna kuwa wurina. in zauna gidanka, ka cika ni da ladabi duk da bangaskiya. Ka zauna kuwa wurina in zauna kuwa wurina in zauna gidanka.",
+
+      "In dunga tunawa da kai kullum ba fasawa har muddun rai har abada Yesu masoyina, in dinga tunawa da kai kullum ba fasawa har muddun raina har abada Yesu masoyina"
     ]
   },
   {
-    "id": "2",
-    "number": 2,
-    "title": "",
+    "id": "232",
+    "number": 232,
+    "title": "KEY Ab 4/4 MODERATO IN DAN CETO BA KYAUTA BA",
     "category": "",
-    "solfa":"",
-    "chorus": "",
+    "solfa":":s,.s./d.d:-,d/m.m:-.d/r.d",
+    "chorus": "Ya da me zanyi yanzu. in da ceto ba kyauta ba? Allah ya kaunace mu ya bada Dan ya shirya mana hanya.",
     "verses": [
-    
+      "In da ceto da kudi ake sayensa. yawancin mu, dam mun hallaka Amma Yesu da kansa ya biya laifinmu, har ya mutu kan gicciye.",
+
+      "Matalauta na Krista, in ji Yesunmu zasu gaji mulkin Allahnmu, Dukan wanda ya yarda ya bada gaskiya zai yi mulki da Yesu",
+
+      "Duba yawan kaunarsa, zuwa garemu, daya mutu akan gicciye, Ya aiki fansarmu matalauta. aikin cetonsa kyauta ne.",
+
+      "Duk an gama in ji shi, a bisa gicciye, daya mutu akan Kalvari, Aikin ceton an gama a wannan rana dominka domina."
     ]
   },
   {
-    "id": "2",
-    "number": 2,
-    "title": "",
+    "id": "233",
+    "number": 233,
+    "title": "KEY G 6/8 (allegro) KU YI RAI HAR ABADA",
     "category": "",
     "solfa":"",
-    "chorus": "",
+    "chorus": "Sp: Ku yi rai - har abada\nDubi Yesu shine hanyar rai,\nSai ku duba ku yi rai. I, alkawarinsa, Domin dukan mu\nSauran: Ku yi rai ku yi, har abada, abadin\nDubi Yesu shine hanyar rai, hanyar rai,\nSai ku duba ku yi rai, I, alkawarinsa, domin dukan mu.",
     "verses": [
-    
+      "Kun ji shela. ake yi ga duka, in ji Yesu Ubangijinmu, Sai ku duba ku yi rai, Halle-lu-ya ba mai ceto sai dai shi.",
+
+      "Allah ya yi kaunar duk 'yan adam, Kaunar Allah ce jawabin rai, Sai ku zo wurin Yesu tun yanzu, Don Kofa tana nan bude.",
+
+      "Ana mika maku rai kyauta fa, Rai har abada fa kyauta ne, Fadin Yesu na ku gasganta ne, Shi don haka kusa kaskanci."
     ]
   },
   {
-    "id": "2",
-    "number": 2,
+    "id": "234",
+    "number": 234,
     "title": "",
     "category": "",
-    "solfa":"",
+    "solfa":":s./m:-.r:d:m:-:d/r:d:l,s.",
     "chorus": "",
     "verses": [
-    
+    "Dan'uwana farka raira yabonsa da ranar fansar mu ta zo, Abin farin ciki ne randa muka sadu da mawaka a can Sama\nDuka:\nAkwai farin ciki. idan muka sake saduwa sa'adda muke rairawa, Akwai babban sulhu ga dukan mawaka sa'adda muka koma sama",
+
+    "Ba wanda ya taba yin tunnani game da gida a Sama. Dan'uwana sai ka yi aiki fa sosai don mai fansarmu na zuwa.",
+
+    "Ka dunga yin aiki kana yin lura har randa Yesu zai dawo, Akwai farin ciki sa'adda muka sadu da mawaka a can Sama"
     ]
   },
   {
-    "id": "2",
-    "number": 2,
-    "title": "",
+    "id": "235",
+    "number": 235,
+    "title": "KEY Ab 4/4 (ALLEGRO) MAI TSARKI",
     "category": "",
-    "solfa":"",
-    "chorus": "",
+    "solfa":"m:r/d:s,/d:d/-:-/m:r/d.s,./l,:l,",
+    "chorus": "Sp; (Hossana)Sauran: Hossana, Hossana, Hossana cikin Sama",
     "verses": [
-    
+      "Mai tsarki. Mai tsarki, Mai tsarki,\nMai tsarki, Mai tsarki, Mai tsarki, Ubangiji (2x)\nAllah mai runduna Sama da kasa a cike suke da darajarka",
+
+      "Mai albarka ne wanda ke zuwa\nA sunan - U - bangiji."
     ]
   },
   {
-    "id": "2",
-    "number": 2,
-    "title": "",
+    "id": "236",
+    "number": 236,
+    "title": "KEY A 4/4 (MODERATO) RAIRA WAKAR YABO GA ALLAH",
     "category": "",
-    "solfa":"",
-    "chorus": "",
+    "solfa":":s,l/d.d:d.,r/m.m.-:m.r/d.d:t,:t,.l,/s. :",
+    "chorus": "Raira yabo (ga Ubangiji) (gama) shi (shi ya) ya (I) I (sa) samu (mu) ya be (ya) shi (be shi) yabi Allah (Allah) don girman sunan sa (girman sunansa)",
     "verses": [
-    
+      "Wakar yabo zamu raira ga Ubangiji Allah. Gama shine mahaliccin duniya (duniya) Yabo, girma da daukaka sun tabbata ga Allah Halleluya, yabo, girma nasa ne (girma n ne)",
+
+      "Kaunar Allah na girma, Kaunar Allah babbace Shi ya aiko Dansa duniya domin mu (dominmu) Shi ya mutu akan gicciye domin ceton yan adam, Halleluya yabo, girma nasa ne (girma nasa ne)",
+
+      "Sai mu daga hannayenmu. cikin gida mai tsarki. Sai mu daga wakar yabo ga Allah (ga Allah) Halleluya, Halleluya yabo girma nasa ne Halleluya yabo, girma nawa ne (girma nasa ne)",
+
+      "Yabo, girma da daukaka, sun tabbata ga Allah Yabo girma da daukaka nasa ne (nasa ne) Yabo girma da daukaka sun tabbata ga Allah Halleluya yabo, girma, nasa ne (girma nasa ne)"
     ]
   },
   {
-    "id": "2",
-    "number": 2,
-    "title": "",
+    "id": "237",
+    "number": 237,
+    "title": "KEY Ab 4/4 (MODERATO) SHI SARKI NA",
     "category": "",
-    "solfa":"",
-    "chorus": "",
+    "solfa":"d:d:m:-, d/l,t, :d. :l, :s,. /d:m:s:- s/l.s:s.m:r:-",
+    "chorus": "Sp/Alt: Sarkina kullum ina kaunarsa Shi sarki babu wani kamarsa Ko yaushe ne zanyi yabonsa, Don shine mai cetona.\nTn/Bs: Shine sarkina kullum ina kaunarsa Shine sarkina babu wani kamarsa\nKo yaushe ne zanyi ta yabon sunansa Don shine mai cetona wanda ya fanshe ni",
     "verses": [
-    
+      "Kullum zan yi ta yin wakar yabo, ga Yesu shi mai ceto na Shine ya fanshe ni daga duhu, Zan yi ta daukaka sunansa,",
+
+      "kaunar Yesu kullum takan bi ni, kaunar Yesu babu iyaka,\nShi ya sa zuciyata tana murna, kullum zan rika yin yabonsa",
+
+      "Cikin hasken Yesu murna, shi kadi ya iya bada rai Al'umai ku gaskata da Yesu, Za mu tafi can Sama da shi."
+
+
+
     ]
   },
   {
-    "id": "2",
-    "number": 2,
-    "title": "",
+    "id": "238",
+    "number": 238,
+    "title": "DAUKAKA GA ALLAH",
+    "category": "",
+    "solfa":"s. :s:-l t:d,.r. s.",
+    "chorus": "Madalla, madalla, bari kowa ya ji Madalla, Madalla kowa ya yi murna Ku zo wurin Allah ta wurin Yesu Yi masa godiya don shi mai cetonmu",
+    "verses": [
+      "Daukaka ga Allah don Dansa Yesu Ya bada jininsa domin fansarmu Amma dai ya tashi ya koma Sama Yakan bada ruhu da yawan kyautayi.",
+
+      "Ya ceto cikakke kyautar Allahnmu Ko wani mai tuba mai bada gaskiya Ko wani mai laifi, ko mai laifinasa In ya zo gun Yesu zai sami gafara.",
+
+      "Mu kuwa wakar yabo ce muke ta yi Ga Allah don Dansa shine masoyi Amma zamu kara yin murna sosai Sa'ad da muka ganshi da ido sosai."
+    ]
+  },
+  {
+    "id": "239",
+    "number": 239,
+    "title": "CIKIN TAFIN HANNUW ANSA",
+    "category": "",
+    "solfa":"d m s s f m r d / l d",
+    "chorus": "Cikin tafin, hannunsa, cikin tafin, hannunsa Baa bin da zai yi mani rauni, cikin tafin hannunsa.",
+    "verses": [
+      "Yesu Kristi Ubangiji nawa. yana tare da ni kulluyomin Zai boye ni a cikin duniyan nan; cikin tafin hannunsa,",
+      "Ya rungume ni da hannuwansa Muryarsa ta yi Magana dani Allah shi ne yake rike dani Cikin tafin hannunsa.",
+
+      "Allah zai yi tsaron zuciyata Ba abin da zai raba ni da shi Allahna zai kiyayeni kuma Cikin tafin hannunsa" 
+    ]
+  },
+  {
+    "id": "240",
+    "number": 240,
+    "title": "YABO GA ALLAHNMU SHINE MAHALICCI KOMAI(Praise to the Lord)",
+    "category": "Entrance",
+    "solfa":"-d d s m r d t/s",
+    "chorus": "",
+    "verses": [
+      "Yabo ga Allahnmu shine mahalliccin komai Ya raina yabe shi shine mai ceto mai kiwo Zo masu ji maza da mata kuzo Ku matsonan ku yabe shi",
+
+      "Yabo ga Allahnmu mai mulkin Sama da duniya Ya kiyaye mu karkashin fuka-fukansa Ba kaji ba? Bukatar kowa ta biya Ta wurin ikon kaunarsa",
+
+      "Yabo ga Allahnmu wanda ya tsare mu duka Kullum jinkai da alheri sukan kiyaye mu Luru da kyau, komai mai iko ya iya Don kaunarsa a garemu.",
+
+      "Ya raina duka ka yabi Ubangiji Allah Yara da manya kuzo gabansa da waka Bari amin! ta fito bakinmu dukHar abada mu yabe shi -- Amin."
+
+    ]
+  },
+  {
+    "id": "241",
+    "number": 241,
+    "title": "IN MUN CI JIKI DA JININSA",
+    "category": "Communion",
+    "solfa":"m s s s l s m m r d d r m",
+    "chorus": "(Lallai) Yesu Kristi zai dauki, duk nauyin kayanmu In mun ci jikinsa da jininsa (kullum yace) Ba zai taba barmu ba yana tare damu, Yana cikin mu, muna cikinsa.",
+    "verses": [
+      "Kuzo duka 'yan'uwa, mu ci gurasar rai wanda Yesu ya bayar domin dukanmu Yace mu rika ci domin tunawa da shi Amma fa mu ci da tsabtar zuciya (kullum)",
+
+      "Mu je da farin ciki da murna fa awarai Domin mu cikakku ne cikin Yesunmu (lallai) Wanda yana cin jiki yana shan jininsa zai rayu a cikinsa koyaushe (kullum)",
+
+      "Ya Yesu Ubangiji, ga mu a durkushe Ka ji tausa - yinmu, taimake mu (a yau) Domin mun kasa bamu isa ka zo wurinmu ba Amma ka yi Magana zamu warke (sarai)",
+
+      "Mun sunkuyu gabanka. muna maka godiya Yabo da daukaka duk naka ne (Uba) Mu yi sujada ga Ubanmu mai kaunar 'yan adam Ya bamu jiki da jininsa (duka)"
+    ]
+  },
+  {
+    "id": "242",
+    "number": 242,
+    "title": "BANI GURASAR RAI",
+    "category": "Communion",
+    "solfa":"m d m s l s - m d m r. ",
+    "chorus": "",
+    "verses": [
+      "Bani gurasar rai, ya Allahna Yadda ka bayar a can Galile Ina bidarka Ya Ubangiji Ruhuna na marmarin gurasar.",
+
+      "Bani gurasar rai, bani in ci Yadda ka albarkacc da ita Ita zata yantar da ni. in sami rai Salama taw ace ya Yesu na.",
+
+      "Kai ne gurasar rai, a gare ni Kalmarka gaskiya ce, ta cece ni Ba ni abicin rai daga Sama Koya mani gaskiya da kaunarka",
+
+      "Aiko mani Ruhunka ya Allah Bude ido na in ga kaunar ka . Nuna mani kalmar gaskiya dai Dake cikin littafinka na rai."
+
+    ]
+  },
+  {
+    "id": "243",
+    "number": 243,
+    "title": "YA KARAMIN BIRNIN BAITAMI",
+    "category": "",
+    "solfa":"s.d d d r m r m f s",
+    "chorus": "",
+    "verses": [
+      "Ya karamin birnin Baitalami a can Kasar Yahudiya Ba auta bace ko kadan. a cikin Yahudiya Gama daga cikin ki mai ceto zai fito Tauraronsa abisan ki zai nuna ya iso",
+
+      "Da kina cikin duhu fa, yanzu dubi haske kuwa Da mutane suka raira ki, yanzu akwai daraja. Ji wakokin mala'iku! Yabo zuwa ga Allah A cikin mafi daukaka, a duniya salama",
+
+      "Shehunan gabas fa sun zo, dauke ma da dukiya Gaisuwa, girma, daraja, ga yaron nan suka bayar Ga Yesu mai cetonmu a cikin Baitalami Ba wurinsa a duniya. Madaukaki ne shi."
+    ]
+  },
+  {
+    "id": "244",
+    "number": 244,
+    "title": "YESU DAN ALLAH DA KA ZO",
+    "category": "",
+    "solfa":"d tl s - f m r d",
+    "chorus": "",
+    "verses": [
+      "Yesu Dan Allah da ka zo, me fa mu zamu yi? Mala'iku a can Sama, ku taimake mu rairawa Yanzu da Asubahi, yanzu da asubahi Godiya ga Allahnmu har abada",
+
+      "Ya Almasihu da ka zo, mu fa me zamu yi? Mu durkusa a gabanka, mu yi maka sujada kuwa Mu girmama sunanka. sai mu girmama sunanka Godiya ga Allahnmu har abada.",
+
+      "Yesu., jariri da ka zo. kai dan madaukaki Mu kankananan yara ma, mun zo mu raira wakarmu Mun gode don zuwanka, I mun gode don zuwanka Godiya ga Allahnmu don zuwanka",
+
+      "Baitalami ce zuciyata, ya Yesu, yau ka zo Ya Yesu, ina rokonka, ka shigo nan a wurinna Ka zauna har abada. I, ka zauna har abada Godiya ga Allahnmu har abada."
+    ]
+  },
+  {
+    "id": "245",
+    "number": 245,
+    "title": "WANENE SARKIN SALAMA",
+    "category": "",
+    "solfa":"d m s t l s f m",
+    "chorus": "Sarkin Salama kaito, yan'uwa abin tausayi kaito Lalle ne mutum abin tausayi ne fa, 'yan'uwa Mu tashi yanzu mu nemi nufmsa zai biya bukatun duk kowa Kar ka manta da shi in ka samu Domin ka sami salama a gidanka Arzuki ba zai baka salama ba Sai dai Yesu Kristi Sarkin Salama",
+    "verses": [
+      "Wanene sarkin Salama 'yan'uwa A cikin duniyan nan babu Salama Akwai yakoki cikin duniyan nan Don duniya bata san sarkin salama ba",
+
+      "Masu neman mulki na duniya Suna cewa za su kawo salama Ga shi su da kansu babu salama Domin ba su san sarkin salama (I, gaskiya ne)",
+
+      "Mai neman duniya na tsammani In ya same su zai sami kwanciyar rai Sa'ad day a same sub a kwanciyar rai Don bai neme su bisa nufin Allah ba (babu kwanciyar rai)",
+
+      "Malalauci wanda bai samu ba Yana addu'a kullum ba fasawa Lokacin day a sami biyan bukata Ba zai sake yin addu'a kuma ba. (abin tausayi)"
+    ]
+  },
+  {
+    "id": "246",
+    "number": 246,
+    "title": "YI HANKALI",
+    "category": "",
+    "solfa":"s d d d r m d r d t, l, s,.",
+    "chorus": "Yi hankali duniya zata shude Za mu koma turbaya dukan mu Hannun wofi mun shigo duniyan nan Haka zamu koma hannu wofi (dukan mu)",
+    "verses": [
+      "Tuna da ranka fa, ranar mutuwarka Randa zaka rabu da wannan duniya Zaka rabu da duk abin da ka tara Ba zamu je sama da komi ba",
+
+      "In kana da bege, domin kayan duniya Tuna kayan duniya, zaka barsu a duniya Yadda mun zo duniya, hannu wofi mun zo Haka zamu koma sai halinmu.",
+
+      "Wanda yana nufi, ya mori duniyar nan Ya yi hankali fa akwai ranar mutuwa Domin wannan duniya ba wurin zama ba Ka yi shiri ka sadu da Yesu.",
+
+      "Neman abin duniya zai kai mu hallaka Ga masu bin Yesu, sun shaida hanyar nan Watan wata rana mutuwa zata fyoce ka Ba zaka je sama da kayan nan ba.",
+
+      "Jin dadin duniyan nan, yana ta rudinmu Ka zo ya kai mutum, ka nemi Allahnka Kasan wannan duniya ba za dawwama ba Duniya zata shude da kayan ta."
+    ]
+  },
+  {
+    "id": "247",
+    "number": 247,
+    "title": "NA JI MURYA",
+    "category": "",
+    "solfa":"s, s, s, d - m m m r d d r",
+    "chorus": "",
+    "verses": [
+      "(Naji murya) na ji murya daga sama. na ji muryar Ubangiji na in zo, (Na ji kira) na ji kira daga sama, na ji kiran Ubangiji na in zo, (Na amsa) Ubangijina me kake so in yi maka? (ya amsa) Ka zo in aike ka gun al'ummai (sai n ace) wanene ni hard a zan je in yi zance da su? (sai yace) ka je zan kasance tare da kai. Na san kai yaro ne (baka) iya Magana ba. Kada ka ji tsoronsu gama ina tare da kai. Wannan Magana ce (Allah) ya yi da Irimiya. Iya kar abin d azan umarce ka shi zaka yi (sai ka ce musu in ji Ubangiji mai runduna) Ku gyara halinku da ayyukanku (in ji Ubangiji mai runduna) Kar ku dogara ga maganar karya. (Idan baku bi wadansu alloli ba) alloli wadanda ba ku san su ba. (Ga shi ina ganin abin da kuke aikalawa) kuna ta yin sata, da kisan kai, liar ma da zina. Har kuna rantsuwa, kuna karya, babu fargaba. Kuna yin mugunta, babu tsoro, cikin zuciyar ku. Ku tuba fa!",
+
+      "(Mu masu bi) Mu masu bin Yesu Kristi, sai mu ji wannan muryar Ubangiji (In muka ji) in muka ji muryarsa kuwa. zamu yi nasara cikin aikinmu. (Lura fa) masu bi da yawa yau sun bar hanyar Allah (Gaskiya ne) suna ta bin hanyoyi na shaitan (don haka) sai su yi tunani fa su koma gun Allah (don kada) Ubangiji ya yi fushi da su. Wannan Magana fa (tana) zuwa garemu yau. Mu zama masu tsoron Allah cikin tafiyarmu. Allah yana sama (yana) Kallon ayyukanmu. Mu zama masu tsoron Allah cikin ayyukanmu. (Haka yake so in ji Ubangiji mai runduna) Kar mu dogara ga maganar karya. (Idan bamu za-lunci kowanne mutum ba) Allah zai ji dadi ya zauna dam u. (Idan ba mu bi shawarar miyagu ba) Allah zai ji dadi ya zauna dam u. (Idan za mu nemi nufinsa cikin rayuwar mu) Za mu yi nasara. Yi nasara, cikin zaman mu. Za mu sami lada, babban lada, wurin ubanmu. Har ma da rawani, rawani rai wurin ubanmu. Mu tuba fa!"
+
+    ]
+  },
+  {
+    "id": "248",
+    "number": 248,
+    "title": "MENENE TUNANINKA",
+    "category": "",
+    "solfa":"d d s. d m m d - m m m m f m r",
+    "chorus": "Oh Halleluya (amin) ga Dan Allah (Allah) Oh Halleluya (amin) ga Dan Dauda (Dauda) Oh Halleluya (amin) ga Mai cetonmu Za mu zauna tare can, a cikin samaniya",
+    "verses": [
+      "Menene tunaninka cikin vvannan duniya Sai ka tuna da randa, Yesu zai zo duniya Lallai za mu karbe shi, mud a muke da shiri Za mu zauna tare can, a cikin samaniya",
+
+      "Sa ka shirya tun yanzu, tun kana nan duniya Ga ma ba damar shiri. a can cikin kabari Nemi Yesu tun yanzu, tun kana nan duniya Nemi Ruhu daga can, a cikin samaniya",
+
+      "Gidan nan shinyayye ne domin masu ladabi Ba bu masu yin baye, a cikin samaniya Ko su masu fasikanci, da masu yin zina ma Za su shiga wutar nan, wuta ta har abada.",
+
+      "Masu kisan kai duka, su da suke sihiri za su shiga wutar nan, wuta ta har abada Sai ku bar kazantar nan, tun kuna nan duniya Kar ku rasa ladan ku, a cikin samaniya."
+    ]
+  },
+  {
+    "id": "249",
+    "number": 249,
+    "title": "FANSASSU SUNA RAIRA WAKA",
+    "category": "",
+    "solfa":"s s s l s f m s s d' s.",
+    "chorus": "Su - na yabonsa. shi wanda aka gicciye Su - na yabonsa . shi wanda ya yi nasara.",
+    "verses": [
+      "Fansassu suna raira wakar murna Suna yi wa Yesu Kristi Sujada Sun manta da bakin cikin duniyar nan Don Yesu ya share masu hawaye.",
+
+      "Suna wakar kaunar Ubangijinmu wanda ya fanshe su daga mutuwa wanda zai sake zuwa duniyan nanDon ya karbi masu bi a wurinsa",
+
+      "Mu da aka fanshe mu tare da su Bari mu yi tarayya cikin wakan nan Sai mu yi ta yabon Ubangijin mu Har randa zai sake dawowa duniyan nan",
+
+      "Ku da kuke cikin zunubi har yanzu Ubangiji Yesu yana kiranku Sai ku zo ku tuba ku sami ceto Don mu daukaka Ubangiji tare."
+    ]
+  },
+  {
+    "id": "250",
+    "number": 250,
+    "title": "LALLAI AKWAI WAHALA",
+    "category": "",
+    "solfa":"s s . f s f m d s l d l s m",
+    "chorus": "Lallai akwai wahala fa Lallai shaitan bai yarda ba Amma da ikon Allah, in ka sami ceto Lallai ba shakka zaka shiga",
+    "verses": [
+      "Dukan mu masu bi yau. muna cikin tafiya Zuwa can kasa mai daraja Amma sai ku tuna fa cewa said a zuffa Za mu sami shiga birnin nan",
+
+      "Dukan mu masu bi yau, sai mu yi lura fa Hanyar nan ta rabu kashi biyu Daya zata kai mu sama, daya kuwa sai wuta Tuna mu bi matsatstsiyar hanya.",
+
+      "Sai mu yi damara fa, yaki na gaban mu Yafa suturar adalai fa Da garkuwar bangaskiya, da kwallin ceto Rike takobin Rahu sosai",
+
+      "Ranar karshen yakin mu, idan fa mun kasa Lallai zamu shiga wuta fa Idan dai mun ci nasara, za mu yi ta murnaTare da Yesu har abada."
+    ]
+  },
+  {
+    "id": "251",
+    "number": 251,
+    "title": "HANYAR DARAJA",
+    "category": "",
+    "solfa":"m s l s m r d d l, s",
+    "chorus": "Ina hanyar dara, Ina hanyar daraja Sama zanje kuwa ga hamar huɗaddiya Don ina hanyar daraja",
+    "verses": [
+      "Ina kan hanya, hanyar samaniya Ina hanyar daraja Shaida wa duniya Yesu mai ceto Don ina hanyar daraja",
+
+      "Sai ka ji kiran Ubangiji yau Zo kan hanyar daraja Batacce komo hanzarta ka zo Don ina hanyar daraja",
+
+      "Gaba dai sai yin murna cikinsa Ina hanyar daraja Zan ga mai ceto a cikin Sama Ai ina hanyar daraja."
+    ]
+  },
+  {
+    "id": "252",
+    "number": 252,
+    "title": "WA ZAI CECI DUNIYA",
+    "category": "",
+    "solfa":"d r m m r m f - s f m",
+    "chorus": "Yesu ne, Yesu ne, Yesu ne mai ceton mu Shi ya mutu domin mu Sa'an nan ya tashi kuwa Yana nan a sama can Za ya sake dawowa, Don ya karbi masu bi zuwa can (2x)",
+    "verses": [
+      "Wa zai ceci duniya - Yesu neWa zai kawo gafara - Yesu ne Wa zai sha wahalar mau - Yesu ne Har ya mutu domin mu - Yesu ne",
+
+      "Wa zai kau da zunubi - Yesu ne Wu zui bam u sabon rai - Yesu ne Shi kadi Dan Allah ne - Yesu ne Shi mai rai har abda - Yesu ne",
+
+      "Wa zai fyau ce mu a nan - Yesu ne Wa zai kai mu sama can - Yesu ne Yana can wurin Uba - Yesu ne Yana roko domin mu - Yesu ne"
+    ]
+  },
+  {
+    "id": "253",
+    "number": 253,
+    "title": "RAYUWA CIKIN DIJNIYA",
+    "category": "",
+    "solfa":"s m m m r d m r d d d l, d.",
+    "chorus": "Ya Uba taimakonka ne muke bida fa Kan hanyan nan da wuya fa ka jagorance mu (a) Sai ka bamu Ruhunka donmu yi nufin ka Uba muna roko bishe mu (b) Uba taimakon - ka muke bida Hanya da wuya, jagorance muBam u Ruhunka don mu yi nufinkaUba muna roko bishe mu",
+    "verses": [
+      "Rayuwa cikin duniya akwai bakin ciki Damuwa ko ta ina sun dulmiyadda dam u Wahala iri-iri, kuka ko ta ina Uba muna roko bishe mu.",
+
+      "Uba mun ji labarin zuwanka Jerico Ka taimaki gajiyayyu su ji maganarka Sa'anda duka abu kuwa duniya sun ji mu Uba muna roko bishe mu",
+
+    "Uba hanya da wuya ba za mu iay ba Ga tsanani ko ina, ga jarabobi kuwa Ba in da za mu tsira, gunka muka dogara Uba muna rook bishe mu."
+
+
+      
+
+    ]
+  },
+  {
+    "id": "254",
+    "number": 254,
+    "title": "KA YI ADDU'A",
+    "category": "",
+    "solfa":"s s s m d d l l l s",
+    "chorus": "Sai na yi ta yin addu'a, na fadi duk damuwata Babu bata lokaci. ya kuwa amsa mani Tun daga wannan rana nasan ashe addu'a cikin bin Yesu Kristi, Hakika akwai iko.",
+    "verses": [
+      "Cikin rayuwata a duniva, akwai abin da yake damuna Na rasa me zan yi yaya zan yi shi (kuma) yaushe ke nan Na duba dukan fadin duniyan nan, Ko ina ne zan sami taimako Sai Yesu y ace cikin zuciata-ka dinga yin addu'a",
+
+      "Wata rana ina yin tunani, game da wuyar d azan fuskanta Sai na sake ji cikin zuciata., ka dinga yin addu'a Kai dana sai ka matso wurina, in koya maka abin da zaka yi Lallai Yesu ne. sai y ace dani ka dinga yin addu'a.",
+
+      "Wata rana sai na duba da kyau, ko menene dalilin wahalata Me ya kawo rashin kwanciyar raina. lallai ai na gane Ashe komai zanyi sai na manta da Yesu, da yin addu'a kumaSaid a Yesu nay a gaya mani - ka dinga yin addu'a",
+
+      "Tun lokacin nan komai d azan yi, sai dai in far da yin addu'a Da murna da farin ciki kuwa sai - kuwa in yi sa'a To dan'uwa komai yake damunka, gayawa Yesu cikin addu'a In ka yi da gaskiya ka ji dadi, I, kuwa har abada."
+    ]
+  },
+  {
+    "id": "255",
+    "number": 255,
+    "title": "ALHERIN UBANGIJI",
+    "category": "",
+    "solfa":"S d m d m r d l s",
+    "chorus": "",
+    "verses": [
+      "Alherin Ubangijina, abin mamaki ne Yesu ya bada jininsa. fansar mai zunubi",
+
+      "Tun ranar da na tuba fa. alherinsa na nan Alheri kuwa zai kai ni can, wurin Ubangiji",
+
+      "Ya raina karka manta dai. da duk alherinsa Abu duk dake cikina. ya yabi sunansa",
+
+      "Ubangiji mai tausayi da, jinkirin fushi ne Alherinsa tun farko ne, akan mai tsoronsa",
+
+      "Me zan ba wa Ubangiji, domin alherinsa? Zan mika jiki na hadaya, tare da zuciata",
+
+      "Ruhun alheri zuga ni, tsabtace zuciata Ka bi da ni don aikinka, shelar bishararka"
+
+    ]
+  },
+  {
+    "id": "256",
+    "number": 256,
+    "title": "S m s m d m s m d d r d s.",
     "category": "",
     "solfa":"",
     "chorus": "",
     "verses": [
-    
+      "Sp: Masu bi mu yi hankali Dukka: Da duniyan nan\nSp: Duk abin da muke yi fa\nDukka: a duniya muke\nSp: Mu tuna da Yesu Krisli Dukka: da wahalarsa\nSp: Ko muna shan wahala ne\nDukka: a duniya muke",
+      
+      "Idan mutum na da arziki In ba mai jin tsoron Allah\n(a) Yakan maida sauran mutane Kamar banza ne\n(b) Idan kana da wannan hali Sai ka yi tunani da kyau fa Gama karshen wannan arziki A duniya suke.\n(c) Ta wurin mutum zunubi ya - shigo duniyan nan\nZunubin da mutum ya yi ne - ya jawo mutuwa Shi ya sa mutuwa tana akan - kowanne mutum mun dogara ga mai ceto - mu yi nasara\n(d) Mu yi hankali da kanmu - a duniya muke Kada mu raina junan mu - a duniya muke Kada mu yi kyashin juna - a duniya muke Shirya da Allah tun yanzu - a duniya muke Sp: Ubangiji ka bishe mu - a duniyan nan Karfi, Iko, kokarinmu - duka ya kasa Mun yi maka zunubi fa – sai ka yafe mu Don mu sami ikon shiga – gidan Allahn mu"
+    ]
+  },
+  {
+    "id": "257",
+    "number": 257,
+    "title": "SAUKO RUHU MAI TSARKI",
+    "category": "Entrance",
+    "solfa":"s s f f m - m m m r r d.",
+    "chorus": "Ka sauko (Ruhu mai tsarki) Sauko (Ruhu mai tsarki) sauko Ruhu mai tsarki sauko Halleluya, Halleluya, Halleluya Amin Halleluya.",
+    "verses": [
+      "Wannan ran ace Ubangiji ya yi Yi murna da farin ciki a cikinta Mun gode wa Allah, domin wannan rana Da muka taru domin albarkunsa.",
+
+      "Sauko ya ruhu cikin zukatanmu Cikin zukatan masu gaskanta ka Hura a zukatanmu Wutar kaunarka Sauko a kan mu Ruhu mai tsarki",
+
+      "Aiko da Ruhunka ya Ubangiji Don sabunta dukan fuskar duniya Kaunar Allah aka zubo cikin mu Da Ruhunsa acikin jama arsa"
+    ]
+  },
+  {
+    "id": "258",
+    "number": 258,
+    "title": "BAUTAR YESU DA RABO",
+    "category": "",
+    "solfa":"s s f r d r m d l s",
+    "chorus": "Ina kaunarsa yanzu fiye da Da Zan bauta masa yanzu fiye da Da Zan cika nufinsa komin bukata Zan yi aikin gaskiya. zan bada raina",
+    "verses": [
+      "Bautar Yesu da rabo lallai ne fa Zai bi da mu in mun rike amana Dadin jiki da rabo a duniyan nan Bautat Yesu da murna da salama",
+
+      "Akan jarabce ni in rates hanya Na tuna da mai ceto, na bincike zuwa Kalvari in da aka gicciyc shiMurya tace na sha azaba domin ku",
+
+      "Na tuna da yadda an 'yantar da ni In da na sami gafarar zunubai In da Yesu ya yi Magana da ni Ya gafarci, ya warkad da zuciyata",
+
+      "Yesu ya aike ni shaidar kaunarsa Kullum ruhunsa na jagorantar da ni Yesu shine haske da taimako naYana karfafa ni, yana tafiya da ni"
+    ]
+  },
+  {
+    "id": "259",
+    "number": 259,
+    "title": "YA YESU KADA KA MANTA DANI",
+    "category": "",
+    "solfa":"m r: d:d:m.f:s.l:s:m",
+    "chorus": "(a) Kar ka manta, oh ya Yesu, kar in rates hanya Zo kurkusa ya mai ceto, don jinkanka na yi rai Oh ya Yesu karka manta, babu kowa sai kai Mai cetona, tuna dani zauna dani ko yaushe\n(b) Kar ka manta, ya Yesu, Kar in ratse hanya fa Zo kurkusa mai ceto,don jinkanka na yi rai Ya Yesu, ka manta, babu kowa sai dai kai Mai ta'aziyya-karbe ni zauna da ni ko yaushe",
+    "verses": [
+      "Ina jin nauyin zunubaina Har sun sa naki yin biyayya Oh ya Yesu matso kusa da ni Cikin tafiya a nan duniya Kar ka manta da ni oh ya Yesu Kada ka yarda in rates fa A lokacin jaraba ya Yesu Kar ka manta da ni fa.",
+
+      "Yesu Kristi ka ji tausayi na Ni kadai ne fa a duniya Suna mani ba'a duk sun ki ni Ina tafiya ni kadai ne Duk da haka na san mai ceto na Bari nufinka in yi ya Yesu Ni kadai amma Uba kana nan Tuna da ni ya Yesu",
+
+      "Masu bi duk ku zama da shiri Domin ranar zuwan mai ceto Zaya zo domin ya karbe mu fa Mu zauna tare da shi a can Zamu yi ta raira wakar yabo Tare da mala'iku na sama Ku zo mu yabi sarkin mu Yesu Don Allah mai ceton mu."
+    ]
+  },
+  {
+    "id": "260",
+    "number": 260,
+    "title": "UBANGIJI YA YI MAGANA DA YUNANA",
+    "category": "",
+    "solfa":"m m m l s m d d l d ' t / s",
+    "chorus": "Mu masu bi yau, mu yi biyayya Mu yi biyayya da maganar Ubangiji Ubangiji fa, ba mutum bane Don haka muyi Magana da maganarsa",
+    "verses": [
+      "Ubangiji ya yi Magana da yunana Ya ce Yunana ka tashi ka je Ninevah Ka shaida masu bishara domin su tuba Gama muguntarsu ta hau zuwa gareni",
+
+      "Amma Yunana ya tashi domin ya gudu Daga fuskar Ubangiji zuwa Ta'ashan Ya gangara zuwa Joppa, ya shiga Jirgi Yana murna wai ya gudu daga fuskar Allah",
+
+      "Yunana ya mata Allah yana ko'ina Sai Allah ya nuna ikon sa ga Yunana Allah ya aiko babbar Iska da Hadari Sai Yunana ya tuna Allah na ganinsa",
+
+      "Allah ya shirya babban Kifi cikin Teku Kifi ya hadiye Yunana har kwana Uku Nan da nan Yunana ya tuna akwai Allah Wanene zai gudu a fuskar Allah",
+
+      "Cikin duniya yau akwai irin Yunana Ba su san su bi maganar Ubangiji ba Suna rudin kansu cewa, za su guje shi Sun manta Allah ne mahalliccin duniya" 
+    ]
+  },
+  {
+    "id": "261",
+    "number": 261,
+    "title": "YESU MAI CETO, ZO WURIN MU",
+    "category": "",
+    "solfa":"m: r:d:s.s-f:s:l:s-",
+    "chorus": "Yesu mai ceto, mai cetonmu Za mu yabe ka har abada Yesu mai ceto, mai cetonmu Mun baka girma har abada",
+    "verses": [
+      "Yesu mai ceto, zo wurin mu Mu zamu bi ka, har abada Kwashe zunubi tsabtace mu Ka bamu rai har abada",
+
+      "Yesu mai ceto, ka cece mu Kaunatacce mu har abada Ma gad an sama ka maishe mu 'Ya'ya na Uba, har abada",
+
+      "Yesu mai ceto, kai muke so Za ka karbe mu har abada Kai kana zuwa don masu bi Mu zauna tare har abada"
+    ]
+  },
+  {
+    "id": "262",
+    "number": 262,
+    "title": "SAI MU YABI SUNANSA",
+    "category": "",
+    "solfa":"s-d:m r: d.t,: l. f.: t..",
+    "chorus": "Sai mu yabe shi, ku zo mu yabe shi Ku zo mu yabe shi, Madaukaki mai daraja Mu yabe shi, ku zo mu yabe shi Ku zo mu Yabe shi don girman sunansa",
+    "verses": [
+      "Sai mu yabi sunan Allah Domin kaunarsa a garemu Sai mu ba shi dukan daukaka Girma yabo duk nasa ne",
+
+      "Sai mu yabi sunan Allahnmu Don alhcrinsa, a gare mu Ga mu lafiya sutura duk Kyauta ne yake bamu su.",
+
+      "Sai mu yabi, sunan Allahnmu Domin jikansa a gare mu Sai mu ce Halleluya amin Girma yabo duk nasa ne."
+    ]
+  },
+  {
+    "id": "262",
+    "number": 262,
+    "title": "INA MURNA YESU YAN A SO NA",
+    "category": "",
+    "solfa":"s s s s s d d r m",
+    "chorus": "Ina murna-- Yesu na so na Yana so na, yana so na Ina murna — Yesu na so na Yana so na da kai",
+    "verses": [
+      "Ina murna da Uba a sama, Littafinsa ya shaida kaunars Abubuwan mamaki na ciki Wannan ya shaida Yesu na so na",
+
+      "Yesu na so na ni ina sonsa Kauna ta kawo shi ya cece ni Kauna ce ta kai shi ga gicciye Oh na tabbata Yesu na so na",
+
+      "Cikin wannan tabbaci na huta Na sami albarka cikin Yesu Domin wannan shaitan ya guje ni Na gaya masa Yesu na so na",
+
+      "Oh! in akwai wakar da zan raira Cikin sarauta nag a babban sarki Wannan waka ta bar abada ce Abin mamaki Yesu na so na"
+    ]
+  },
+  {
+    "id": "264",
+    "number": 264,
+    "title": "KUN ZO GUN YESU DOMIN GAFARA?",
+    "category": "",
+    "solfa":"s s d d .s.:m,s.d d d.",
+    "chorus": "Sai ku zo, sai ku zo, wurin Yesu Mai ceto ku zo Shi zai tsarkake ku daga zunubi Sai ku zo wurin Yesu. ku zo",
+    "verses": [
+      "Ko kun zo gun Yesu domin gafara Yana kiranmu duka mu zo Shi ya bada ransa domin dukanmu Sai ku zo wurin Yesu ku zo",
+
+      "Kmai yawan laifi fa zai wanke ku Sai ku zo wurin Yesu tun yanzu Za ku sami murna kuwa. da kwanciyar raiSai ku zo wurin Yesu ku zo",
+
+      "Almasihu ne Yesu, yana jiranku Cikin gidan Ubansa ya hau Yana shirya mana wuri don ya karbe mu Sai ku zo wurin Yesu ku zo."
+
+  
+
     ]
   }
 ]
