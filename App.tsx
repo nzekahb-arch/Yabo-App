@@ -4,6 +4,7 @@ import * as SplashScreen from 'expo-splash-screen';
 import React, { useEffect } from 'react';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import AppNavigator from './src/navigation/AppNavigation';
+import { SettingsProvider } from './src/screens/store/SettingsContext';
 
 // Keep the splash screen visible while fonts and assets are fetching
 SplashScreen.preventAutoHideAsync();
@@ -37,9 +38,12 @@ export default function App() {
   // 4. Main application rendering
   return (
     <SafeAreaProvider>
-      <NavigationContainer>
+      <SettingsProvider>
+        <NavigationContainer>
         <AppNavigator />
       </NavigationContainer>
+      </SettingsProvider>
+      
     </SafeAreaProvider>
   );
 }

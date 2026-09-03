@@ -3,9 +3,12 @@ import { FlatList, StyleSheet, Text, TextInput, TouchableOpacity, View } from 'r
 import hymnsData from '../../../assets/data/hymns.json';
 import { COLORS } from '../../constants/Colors';
 
+
 const CATEGORIES = ['All', 'Entrance', 'Offertory', 'Communion'];
 
 export default function HymnsScreen({ navigation }: any) {
+
+
   const [search, setSearch] = useState('');
   const [activeCategory, setActiveCategory] = useState('All');
 
