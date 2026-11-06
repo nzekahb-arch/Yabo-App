@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import { useRouter } from 'expo-router';
+import { useState } from 'react';
 import { FlatList, StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
 import hymnsData from '../../../assets/data/hymns.json';
 import { COLORS } from '../../constants/Colors';
@@ -6,8 +7,8 @@ import { COLORS } from '../../constants/Colors';
 
 const CATEGORIES = ['All', 'Entrance', 'Offertory', 'Communion'];
 
-export default function HymnsScreen({ navigation }: any) {
-
+export default function HymnsScreen() {
+  const router = useRouter();
 
   const [search, setSearch] = useState('');
   const [activeCategory, setActiveCategory] = useState('All');
@@ -51,7 +52,7 @@ export default function HymnsScreen({ navigation }: any) {
         renderItem={({ item }) => (
           <TouchableOpacity 
             style={styles.hymnRow}
-            onPress={() => navigation.navigate('HymnDetail', { hymn: item })}
+            onPress={() => router.push({ pathname: '/hymn-detail', params: { id: item.id } })}
           >
             <Text style={styles.hymnNum}>{item.number}</Text>
             <View>

@@ -1,14 +1,24 @@
-import React from 'react';
+import { useLocalSearchParams } from 'expo-router';
 import { ScrollView, StyleSheet, Text, View } from 'react-native';
+import hymnsData from '../../../assets/data/hymns.json';
 import { DARK_COLORS, LIGHT_COLORS } from '../../constants/Colors';
 import { useSettings } from '../store/SettingsContext';
 
-export default function HymnDetailScreen({ route }: any) {
-  const { hymn } = route.params;
+export default function HymnDetailScreen() {
+  const { id } = useLocalSearchParams<{ id: string }>();
+  const hymn = hymnsData.find((item) => item.id === id);
   const { isDarkMode, getFontSizeMultiplier } = useSettings();
 
   const theme = isDarkMode ? DARK_COLORS : LIGHT_COLORS;
   const multiplier = getFontSizeMultiplier();
+
+  if (!hymn) {
+    return (
+      <View style={[styles.container, styles.notFound, { backgroundColor: theme.surface }]}>
+        <Text style={{ color: theme.text }}>Hymn not found.</Text>
+      </View>
+    );
+  }
 
   return (
     <ScrollView style={[styles.container, { backgroundColor: theme.surface }]} contentContainerStyle={{ paddingBottom: 40 }}>
@@ -44,12 +54,13 @@ export default function HymnDetailScreen({ route }: any) {
 
 const styles = StyleSheet.create({
   container: { flex: 1, padding: 20 },
+  notFound: { justifyContent: 'center', alignItems: 'center' },
   meta: { textTransform: 'uppercase', marginBottom: 4 },
   title: { fontWeight: 'bold', marginBottom: 20 },
   chorusBox: { padding: 16, borderRadius: 8, marginBottom: 24, borderLeftWidth: 4, borderLeftColor: '#1A5F7A' },
   chorusTitle: { fontWeight: 'bold', marginBottom: 4 },
-  chorusText: { fontStyle: 'italic' },
+  chorusText: { fontStyle: 'italic', fontWeight: 'bold' },
   verseBox: { flexDirection: 'row', marginBottom: 20, alignItems: 'flex-start' },
   verseNumber: { fontWeight: 'bold', marginRight: 10, marginTop: 2 },
-  verseText: { flex: 1 },
+  verseText: { flex: 1, textAlign: 'justify', fontWeight: 'bold' },
 });
